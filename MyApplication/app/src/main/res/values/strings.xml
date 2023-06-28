@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="animale">Animale</string>
+    <string name="orase">Orase</string>
+    <string name="masini">Masini</string>
+    <string name="text">Pentru a incepe jocul,alegeti una din variante!</string>
+</resources>
